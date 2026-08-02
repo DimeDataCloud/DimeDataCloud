@@ -37,4 +37,5 @@ automation.
 
 ---
 
-The repositories below are tools we built for our own work and open-sourced along the way.
+Our public repositories are tools we built for our own work and open-sourced along the way:
+[tailorcv](https://github.com/DimeDataCloud/tailorcv) · [resume-tailor-skill](https://github.com/DimeDataCloud/resume-tailor-skill) · [menubar-marquee](https://github.com/DimeDataCloud/menubar-marquee) · [soundtrace](https://github.com/DimeDataCloud/soundtrace) · [job-auto-apply](https://github.com/DimeDataCloud/job-auto-apply)
