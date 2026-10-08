@@ -1,41 +1,34 @@
-# Dime Data — Nashville web & automation studio
+# Dime Data
 
-No templates, no page builders. Every site, app, and automation is designed around how your
-business actually works. We build it, deploy it, and keep it running.
+A small studio that builds websites, AI agents and the automation behind them, then runs what it
+builds. Most of what's here started as a tool for our own work.
 
-### [dimedata.cloud](https://dimedata.cloud) · Nashville, Tennessee · founded 2026
+[dimedata.cloud](https://dimedata.cloud) · [Book a call](https://dimedata.cloud/appointment/) · help@dimedata.cloud
 
----
-
-## What we build
-
-- **Custom website design** — no templates, with booking built in
-- **AI receptionist**
-- **Automation workflows**
-- **Lead generation + CRM**
-- **Custom web apps and portals**
-- **SEO audits and analytics dashboards** — SEO and analytics come with any website package
-
-Take one piece or the whole stack. Pricing is published on the site, so you can find out what
-it costs without booking a call first.
-
-## Track record
-
-Three client engagements delivered so far: two websites, and one CRM with client-pipeline
-automation.
-
-## Get in touch
+## Products
 
 | | |
 |---|---|
-| **Site** | [dimedata.cloud](https://dimedata.cloud) |
-| **Book a call** | [dimedata.cloud/appointment](https://dimedata.cloud/appointment/) |
-| **Services** | [dimedata.cloud/services](https://dimedata.cloud/services/) |
-| **Email** | help@dimedata.cloud |
-| **Phone** | (629) 777-5570 |
-| **Location** | Nashville, TN, United States |
+| **[HALO Agent OS](https://github.com/DimeDataCloud/halo-agent-showcase)** | A hosted operating system for a one-person business, staffed by AI agents. Live at [haloagent.tech](https://haloagent.tech), with a Windows desktop app. |
+| **[Omni-SDR](https://github.com/DimeDataCloud/omni-sdr-showcase)** | The SDR between your outreach and your closer: replies sorted in minutes, every claim backed by evidence, nothing sent without approval. Wait-list at [omnisdr.com](https://omnisdr.com). |
+| **[Dime Data CRM](https://github.com/DimeDataCloud/crm-showcase)** | A CRM built around the call, with a Call Room for reps and an MCP server with OAuth 2.1 for agents. Runs our own outbound. |
+| **[Lead engines](https://github.com/DimeDataCloud/lead-engine-showcase)** | Lead generation that has to show its work: one recommendation per business with the evidence for it, and scores capped by how good that evidence is. |
+| **[HALO Ops](https://github.com/DimeDataCloud/halo-ops-showcase)** | The operations layer under our own company: thirteen scheduled agent loops, a dispatcher, model routing over an MCP server, and a checker that fails when they drift apart. |
 
----
+The product source is private; each link above is a showcase with screens, architecture and
+excerpts of the real code.
 
-Our public repositories are tools we built for our own work and open-sourced along the way:
-[tailorcv](https://github.com/DimeDataCloud/tailorcv) · [resume-tailor-skill](https://github.com/DimeDataCloud/resume-tailor-skill) · [menubar-marquee](https://github.com/DimeDataCloud/menubar-marquee) · [soundtrace](https://github.com/DimeDataCloud/soundtrace) · [job-auto-apply](https://github.com/DimeDataCloud/job-auto-apply)
+## Open source
+
+**Agents and AI tools**
+- [Open-Waddle](https://github.com/DimeDataCloud/Open-Waddle): a desktop AI agent you can watch, a pixel-art duck that walks to whatever it's about to touch.
+- [lobby](https://github.com/DimeDataCloud/lobby): a shared canvas your bots work on, a multiplayer artifact board for people and their agents.
+- [brain-graph](https://github.com/DimeDataCloud/brain-graph): a Neo4j index over a markdown vault of wikilinked notes, with a read-only MCP server.
+- [tailorcv](https://github.com/DimeDataCloud/tailorcv): tailor a resume to a job posting and export a one-page PDF.
+
+**CRMs and business templates**
+- [booking-os](https://github.com/DimeDataCloud/booking-os): a booking CRM for DJ and artist managers, with venue lead generation, pipeline and calendar.
+- [catering-crm](https://github.com/DimeDataCloud/catering-crm): meal-prep subscriptions and event catering for independent chefs, with no dependencies.
+
+**Utilities**
+- [menubar-marquee](https://github.com/DimeDataCloud/menubar-marquee): every installed app scrolling in a loop through the empty space in the macOS menu bar.
