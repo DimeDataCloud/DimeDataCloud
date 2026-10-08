@@ -13,6 +13,7 @@ builds. Most of what's here started as a tool for our own work.
 | **[Omni-SDR](https://github.com/DimeDataCloud/omni-sdr-showcase)** | The SDR between your outreach and your closer: replies sorted in minutes, every claim backed by evidence, nothing sent without approval. Wait-list at [omnisdr.com](https://omnisdr.com). |
 | **[Dime Data CRM](https://github.com/DimeDataCloud/crm-showcase)** | A CRM built around the call, with a Call Room for reps and an MCP server with OAuth 2.1 for agents. Runs our own outbound. |
 | **[Lead engines](https://github.com/DimeDataCloud/lead-engine-showcase)** | Lead generation that has to show its work: one recommendation per business with the evidence for it, and scores capped by how good that evidence is. |
+| **[HALO Ops](https://github.com/DimeDataCloud/halo-ops-showcase)** | The operations layer under our own company: thirteen scheduled agent loops, a dispatcher, model routing over an MCP server, and a checker that fails when they drift apart. |
 
 The product source is private; each link above is a showcase with screens, architecture and
 excerpts of the real code.
