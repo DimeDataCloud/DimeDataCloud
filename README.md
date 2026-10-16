@@ -22,10 +22,16 @@ internal tools for our own work.
 | [booking-os](https://github.com/DimeDataCloud/booking-os) | A booking CRM for DJ and artist managers: venue lead generation, pipeline, calendar and money. |
 | [catering-crm](https://github.com/DimeDataCloud/catering-crm) | Meal-prep subscription and event catering CRM for independent chefs. Demo mode included. |
 | [halo-agent-releases](https://github.com/DimeDataCloud/halo-agent-releases) | Release binaries and the auto-update feed for the H.A.L.O. Agent OS desktop app. |
+| [trading-bot](https://github.com/DimeDataCloud/trading-bot) | A paper-first memecoin trading research desk: cost-ordered funnel, LLM judge, hash-chained audit log and pre-registered experiments. Not financial advice. |
+| [remotion-ad-series](https://github.com/DimeDataCloud/remotion-ad-series) | Two 18-second vertical video ads written as React components with Remotion. |
+| [command-center](https://github.com/DimeDataCloud/command-center) | A Windows taskbar strip that shows the state of an autonomous agent fleet (C#). |
+| [portfolio](https://github.com/DimeDataCloud/portfolio) | An interactive 3D portfolio: hologram carousel, procedural scenes and custom post-processing. |
+| [chef-crm](https://github.com/DimeDataCloud/chef-crm) | A meal-prep subscription and venue-event catering CRM for independent chefs. Reference build, no longer hosted. |
+| [dj-crm](https://github.com/DimeDataCloud/dj-crm) | A booking CRM and club lead generator for artist management. Reference build, no longer hosted. |
 
 ## Showcases
 
-These repositories show screens, architecture and excerpts of products whose source is private.
+These repositories show screens and architecture of products whose source is private.
 
 | Repository | Description |
 | --- | --- |
