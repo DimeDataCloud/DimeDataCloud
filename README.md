@@ -1,34 +1,45 @@
 # Dime Data
 
-A small studio that builds websites, AI agents and the automation behind them, then runs what it
-builds. Most of what's here started as a tool for our own work.
+Dime Data is a web and automation studio in Nashville. We build websites, AI receptionists,
+automation, CRMs and custom apps, and we run what we build. Many of the tools below started as
+internal tools for our own work.
 
-[dimedata.cloud](https://dimedata.cloud) · [Book a call](https://dimedata.cloud/appointment/) · help@dimedata.cloud
-
-## Products
-
-| | |
-|---|---|
-| **[HALO Agent OS](https://github.com/DimeDataCloud/halo-agent-showcase)** | A hosted operating system for a one-person business, staffed by AI agents. Live at [haloagent.tech](https://haloagent.tech), with a Windows desktop app. |
-| **[Omni-SDR](https://github.com/DimeDataCloud/omni-sdr-showcase)** | The SDR between your outreach and your closer: replies sorted in minutes, every claim backed by evidence, nothing sent without approval. Wait-list at [omnisdr.com](https://omnisdr.com). |
-| **[Dime Data CRM](https://github.com/DimeDataCloud/crm-showcase)** | A CRM built around the call, with a Call Room for reps and an MCP server with OAuth 2.1 for agents. Runs our own outbound. |
-| **[Lead engines](https://github.com/DimeDataCloud/lead-engine-showcase)** | Lead generation that has to show its work: one recommendation per business with the evidence for it, and scores capped by how good that evidence is. |
-| **[HALO Ops](https://github.com/DimeDataCloud/halo-ops-showcase)** | The operations layer under our own company: thirteen scheduled agent loops, a dispatcher, model routing over an MCP server, and a checker that fails when they drift apart. |
-
-The product source is private; each link above is a showcase with screens, architecture and
-excerpts of the real code.
+[dimedata.cloud](https://dimedata.cloud) · [get@dimedata.cloud](mailto:get@dimedata.cloud)
 
 ## Open source
 
-**Agents and AI tools**
-- [Open-Waddle](https://github.com/DimeDataCloud/Open-Waddle): a desktop AI agent you can watch, a pixel-art duck that walks to whatever it's about to touch.
-- [lobby](https://github.com/DimeDataCloud/lobby): a shared canvas your bots work on, a multiplayer artifact board for people and their agents.
-- [brain-graph](https://github.com/DimeDataCloud/brain-graph): a Neo4j index over a markdown vault of wikilinked notes, with a read-only MCP server.
-- [tailorcv](https://github.com/DimeDataCloud/tailorcv): tailor a resume to a job posting and export a one-page PDF.
+| Repository | Description |
+| --- | --- |
+| [app-builder](https://github.com/DimeDataCloud/app-builder) | Claude Code skills that take a mobile app from idea to an execution-ready build spec. React Native, Expo and Supabase. |
+| [claude-modder](https://github.com/DimeDataCloud/claude-modder) | One orchestrator over every Claude Code session, deciding which one needs you. |
+| [open-ClaudeOS](https://github.com/DimeDataCloud/open-ClaudeOS) | An interactive operating system for Claude mods. |
+| [jamlink](https://github.com/DimeDataCloud/jamlink) | Low-latency, browser-only two-player guitar jamming over WebRTC. No install needed. |
+| [brain-graph](https://github.com/DimeDataCloud/brain-graph) | A Neo4j index over a markdown vault of wikilinked notes, with a read-only MCP server for Claude. |
+| [lobby](https://github.com/DimeDataCloud/lobby) | A shared canvas for people and their AI agents: a multiplayer artifact board. |
+| [tailorcv](https://github.com/DimeDataCloud/tailorcv) | Tailors a resume to a job posting and exports a one-page PDF. Mobile app and CLI. |
+| [Open-Waddle](https://github.com/DimeDataCloud/Open-Waddle) | A desktop AI agent you can watch. A pixel-art duck explains each step and asks before anything risky. |
+| [menubar-marquee](https://github.com/DimeDataCloud/menubar-marquee) | Installed apps scroll in a loop through the empty space in the macOS menu bar. Click one to launch it. |
+| [booking-os](https://github.com/DimeDataCloud/booking-os) | A booking CRM for DJ and artist managers: venue lead generation, pipeline, calendar and money. |
+| [catering-crm](https://github.com/DimeDataCloud/catering-crm) | Meal-prep subscription and event catering CRM for independent chefs. Demo mode included. |
+| [halo-agent-releases](https://github.com/DimeDataCloud/halo-agent-releases) | Release binaries and the auto-update feed for the H.A.L.O. Agent OS desktop app. |
 
-**CRMs and business templates**
-- [booking-os](https://github.com/DimeDataCloud/booking-os): a booking CRM for DJ and artist managers, with venue lead generation, pipeline and calendar.
-- [catering-crm](https://github.com/DimeDataCloud/catering-crm): meal-prep subscriptions and event catering for independent chefs, with no dependencies.
+## Showcases
 
-**Utilities**
-- [menubar-marquee](https://github.com/DimeDataCloud/menubar-marquee): every installed app scrolling in a loop through the empty space in the macOS menu bar.
+These repositories show screens, architecture and excerpts of products whose source is private.
+
+| Repository | Description |
+| --- | --- |
+| [halo-agent-showcase](https://github.com/DimeDataCloud/halo-agent-showcase) | H.A.L.O. Agent OS: a hosted operating system for a one-person business, staffed by AI agents. |
+| [halo-ops-showcase](https://github.com/DimeDataCloud/halo-ops-showcase) | H.A.L.O. Ops: scheduled agent loops, a dispatcher, MCP routing and a suite checker. |
+| [omni-sdr-showcase](https://github.com/DimeDataCloud/omni-sdr-showcase) | Omni-SDR: an AI sales development rep for B2B agencies. Replies are sorted quickly and nothing is sent without approval. |
+| [lead-engine-showcase](https://github.com/DimeDataCloud/lead-engine-showcase) | Evidence-backed lead generation: one recommendation per business, with the evidence behind it. |
+| [crm-showcase](https://github.com/DimeDataCloud/crm-showcase) | Dime Data CRM: a CRM built around the call, with an MCP server and OAuth 2.1 for agents. |
+
+## Contact
+
+For projects and questions: [get@dimedata.cloud](mailto:get@dimedata.cloud).
+
+## License
+
+Code in the open-source repositories is licensed under their own terms; see each repository's
+LICENSE file. This profile repository is MIT licensed. See [LICENSE](LICENSE).
