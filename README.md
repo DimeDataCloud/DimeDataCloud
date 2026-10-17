@@ -3,7 +3,7 @@
 Applied AI and ML engineer at Dime Data, Nashville.
 
 Portfolio: [portfolio.dimedata.cloud](https://portfolio.dimedata.cloud)
-Contact: [chris@dimedata.cloud](mailto:chris@dimedata.cloud) · [LinkedIn](https://www.linkedin.com/in/christian-s-dixon)
+Contact: [get@dimedata.cloud](mailto:get@dimedata.cloud) · [LinkedIn](https://www.linkedin.com/in/christian-s-dixon)
 
 ## Start here
 
