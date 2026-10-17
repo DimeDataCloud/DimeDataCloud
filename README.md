@@ -16,7 +16,7 @@ Contact: [get@dimedata.cloud](mailto:get@dimedata.cloud) · [LinkedIn](https://w
 
 - [lobby](https://github.com/DimeDataCloud/lobby): a shared canvas for people and their AI agents. Proof: tokens scoped to one workspace.
 - [claude-modder](https://github.com/DimeDataCloud/claude-modder): one orchestrator over every Claude Code session, deciding which one needs you. Proof: the permission gate is property-tested.
-- [Open-Waddle](https://github.com/DimeDataCloud/Open-Waddle): a desktop AI agent you can watch. Proof: four permission tiers and a hash-chained log.
+- [Open-Waddle](https://github.com/DimeDataCloud/Open-Waddle): a desktop AI agent you can watch. Proof: tiered permissions and a hash-chained log.
 - [halo-ops-showcase](https://github.com/DimeDataCloud/halo-ops-showcase): H.A.L.O. Ops: scheduled agent loops, a dispatcher, MCP routing and a suite checker.
 - [halo-agent-showcase](https://github.com/DimeDataCloud/halo-agent-showcase): H.A.L.O. Agent OS, a hosted operating system for a one-person business, staffed by AI agents.
 - [command-center](https://github.com/DimeDataCloud/command-center): a Windows taskbar strip that shows the state of an autonomous agent fleet (C#).
@@ -30,7 +30,7 @@ Contact: [get@dimedata.cloud](mailto:get@dimedata.cloud) · [LinkedIn](https://w
 
 ## Sales and CRM systems
 
-- [crm-showcase](https://github.com/DimeDataCloud/crm-showcase): Dime Data CRM, built around the call. Proof: OAuth 2.1 with PKCE and 18 MCP tools.
+- [crm-showcase](https://github.com/DimeDataCloud/crm-showcase): Dime Data CRM, built around the call. Proof: OAuth 2.1 with PKCE and a full set of MCP tools.
 - [lead-engine-showcase](https://github.com/DimeDataCloud/lead-engine-showcase): evidence-backed lead generation, one recommendation per business. Proof: evidence-capped fit scores.
 - [booking-os](https://github.com/DimeDataCloud/booking-os): a booking CRM for DJ and artist managers: venue lead generation, pipeline, calendar and money.
 - [catering-crm](https://github.com/DimeDataCloud/catering-crm): meal-prep subscription and event catering CRM for independent chefs. Demo mode included.
@@ -39,18 +39,21 @@ Contact: [get@dimedata.cloud](mailto:get@dimedata.cloud) · [LinkedIn](https://w
 
 - [jamlink](https://github.com/DimeDataCloud/jamlink): low-latency, browser-only two-player guitar jamming over WebRTC. Proof: a 60 ms latency budget.
 - [portfolio](https://github.com/DimeDataCloud/portfolio): an interactive 3D portfolio with a hologram carousel, procedural scenes and custom post-processing.
-- [menubar-marquee](https://github.com/DimeDataCloud/menubar-marquee): installed apps scroll in a loop through the empty space in the macOS menu bar. Click one to launch it.
-- [remotion-ad-series](https://github.com/DimeDataCloud/remotion-ad-series): two 18-second vertical video ads written as React components with Remotion.
 
 ## Tools
 
-- [tailorcv](https://github.com/DimeDataCloud/tailorcv): tailors a resume to a job posting and exports a one-page PDF. Mobile app and CLI.
 - [app-builder](https://github.com/DimeDataCloud/app-builder): Claude Code skills that take a mobile app from idea to an execution-ready build spec. React Native, Expo and Supabase.
-- [halo-agent-releases](https://github.com/DimeDataCloud/halo-agent-releases): release binaries and the auto-update feed for the H.A.L.O. Agent OS desktop app.
 
 ## Reference builds
 
 [dj-crm](https://github.com/DimeDataCloud/dj-crm) is an earlier build of [booking-os](https://github.com/DimeDataCloud/booking-os), and [chef-crm](https://github.com/DimeDataCloud/chef-crm) is an earlier build of [catering-crm](https://github.com/DimeDataCloud/catering-crm). Both are kept for history and are no longer hosted.
+
+## Also built
+
+- [tailorcv](https://github.com/DimeDataCloud/tailorcv): tailors a resume to a job posting and exports a one-page PDF. Mobile app and CLI.
+- [menubar-marquee](https://github.com/DimeDataCloud/menubar-marquee): installed apps scroll in a loop through the empty space in the macOS menu bar. Click one to launch it.
+- [remotion-ad-series](https://github.com/DimeDataCloud/remotion-ad-series): two 18-second vertical video ads written as React components with Remotion.
+- [halo-agent-releases](https://github.com/DimeDataCloud/halo-agent-releases): release binaries and the auto-update feed for the H.A.L.O. Agent OS desktop app.
 
 ## License
 
